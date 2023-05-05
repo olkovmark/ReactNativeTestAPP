@@ -1,7 +1,6 @@
-# ReactNativeTestAPP
 
-#FIRST
-set client_id in config/config.js
+# FIRST
+set <b>client_id</b> in config/config.js
 
 # FOR IOS
 In Terminal....
